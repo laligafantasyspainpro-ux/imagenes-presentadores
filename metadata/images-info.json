@@ -1,0 +1,50 @@
+{
+  "proyecto": "Fantasy La Liga - Ana Reference Images",
+  "descripcion": "Imágenes de referencia de Ana Martínez para consistencia en videos generados con VEO3",
+  "fecha_creacion": "2025-09-28T07:47:23.953Z",
+  "version": "1.0",
+  "imagenes": {
+    "Ana-001.jpeg": {
+      "descripcion": "Ana profesional - imagen principal",
+      "tono": "profesional",
+      "categoria": "principal",
+      "calidad": "alta",
+      "archivo_original": "Ana-001.jpeg",
+      "url_github": "https://raw.githubusercontent.com/[usuario]/ana-reference-images/main/ana-main/Ana-001.jpeg",
+      "uso_recomendado": "Análisis técnicos, chollos, noticias generales"
+    },
+    "Ana-profesional.jpeg": {
+      "descripcion": "Ana corporativa seria",
+      "tono": "serio",
+      "categoria": "profesional",
+      "calidad": "alta",
+      "archivo_original": "Whisk_gdm1u2y0cjzxm2yk1yykdjytmgzhrtlyygz00sy.jpeg",
+      "url_github": "https://raw.githubusercontent.com/[usuario]/ana-reference-images/main/ana-main/Ana-profesional.jpeg",
+      "uso_recomendado": "Análisis profundos, informes ejecutivos, datos importantes"
+    },
+    "Ana-casual.jpeg": {
+      "descripcion": "Ana casual amigable",
+      "tono": "amigable",
+      "categoria": "casual",
+      "calidad": "alta",
+      "archivo_original": "Whisk_ijgmmrgo3cdz3etmtmjmyewlknwz00szkdtntem.jpeg",
+      "url_github": "https://raw.githubusercontent.com/[usuario]/ana-reference-images/main/ana-main/Ana-casual.jpeg",
+      "uso_recomendado": "Contenido casual, tips, interacción con usuarios"
+    },
+    "Ana-elegante.jpeg": {
+      "descripcion": "Ana elegante formal",
+      "tono": "elegante",
+      "categoria": "elegante",
+      "calidad": "alta",
+      "archivo_original": "Whisk_kjmmbjn0cdmyqdzw0imyqmytkdm2qtlxydzy0sm.jpeg",
+      "url_github": "https://raw.githubusercontent.com/[usuario]/ana-reference-images/main/ana-main/Ana-elegante.jpeg",
+      "uso_recomendado": "Presentaciones especiales, eventos, contenido premium"
+    }
+  },
+  "uso": {
+    "proposito": "Image-to-video con VEO3 para mantener consistencia de personaje",
+    "formato_url": "https://raw.githubusercontent.com/[usuario]/ana-reference-images/main/ana-main/[archivo]",
+    "costo_por_video": "$0.30",
+    "tiempo_generacion": "4-6 minutos"
+  }
+}
